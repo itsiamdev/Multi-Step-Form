@@ -9,7 +9,7 @@ A sleek and interactive multi-step form built with HTML, CSS, and JavaScript. Th
 - **Clean UI**: Modern design with smooth transitions and user-friendly interface
 
 ## Demo 🌐
-Check out the live demo: [https://iam269.github.io/Multi-Step-Form/](https://iam269.github.io/Multi-Step-Form/)
+Check out the live demo: [https://itsiamdev.github.io/Multi-Step-Form/](https://itsiamdev.github.io/Multi-Step-Form/)
 
 ## Technologies Used 🛠️
 - HTML5
